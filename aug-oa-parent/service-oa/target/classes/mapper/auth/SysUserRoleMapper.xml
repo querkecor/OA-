@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.aug.auth.mapper.SysUserRoleMapper">
+    <resultMap id="getRoleByUserIdMap" type="com.aug.model.system.SysRole">
+        <id property="id" column="id"></id>
+        <result property="roleName" column="role_name"></result>
+    </resultMap>
+    <select id="getRoleDataByUserId" parameterType="java.lang.Long" resultMap="getRoleByUserIdMap">
+        SELECT r.`id`, role_name
+        FROM sys_role r
+                 JOIN sys_user_role ur
+                      ON r.`id` = ur.`role_id`
+                 JOIN sys_user u
+                      ON ur.`user_id` = u.`id`
+        WHERE u.`id` = 1
+          AND r.`is_deleted` = 0;
+    </select>
+</mapper>

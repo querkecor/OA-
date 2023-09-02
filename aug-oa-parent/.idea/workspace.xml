@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="787d40b8-3b86-4d7c-9e6b-edfb830f9d6a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="application.yml" />
+        <option value="crowd.common" />
+        <option value="mybatis-config" />
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/develop/tools/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\develop\tools\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Op5l8sqFuOHXuJxb0DCPS1yoB0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/develop/project/aug-oa-parent/service-oa/src/main/java/com/aug/wechat/config&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.34390652&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4302e287af255a0a68e2831eb3660cec&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\java\com\aug\wechat\config" />
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\resources\process" />
+      <recent name="E:\develop\project\aug-oa-parent\common\common-util\src\main\java\com\aug\common\utils" />
+      <recent name="E:\develop\project\aug-oa-parent\common\service-util\src\test\java\com\aug\code" />
+      <recent name="E:\develop\project\atcrowdfunding\aug-oa-parent\model\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\resources\mapper\wechat" />
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\resources\mapper\process" />
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\resources\mapper\auth" />
+      <recent name="E:\develop\project\aug-oa-parent\service-oa\src\main\resources\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.aug" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aug.auth" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
+    <configuration name="CodeGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aug.code.CodeGet" />
+      <module name="service-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aug.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aug.common.jwt.JwtHelper" />
+      <module name="common-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aug.common.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTemplateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aug.process.controller.ProcessTemplateController" />
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aug.process.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aug.auth.TestDemo1" />
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aug.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aug.auth.TestDemo1" />
+      <module name="service-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aug.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service-oa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aug.ServiceAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGet" />
+        <item itemvalue="Application.TestDemo1 (1)" />
+        <item itemvalue="Application.TestDemo1" />
+        <item itemvalue="Application.JwtHelper" />
+        <item itemvalue="Application.ProcessTemplateController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787d40b8-3b86-4d7c-9e6b-edfb830f9d6a" name="Changes" comment="" />
+      <created>1682244830637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682244830637</updated>
+      <workItem from="1682244831760" duration="1005000" />
+      <workItem from="1682245843726" duration="868000" />
+      <workItem from="1682246720783" duration="17062000" />
+      <workItem from="1682294292444" duration="3266000" />
+      <workItem from="1682299592846" duration="1227000" />
+      <workItem from="1682341598680" duration="642000" />
+      <workItem from="1682423276209" duration="2148000" />
+      <workItem from="1682476190710" duration="19116000" />
+      <workItem from="1682563913584" duration="1007000" />
+      <workItem from="1682819132830" duration="16948000" />
+      <workItem from="1682903947706" duration="2561000" />
+      <workItem from="1684488658555" duration="1218000" />
+      <workItem from="1685004834359" duration="152000" />
+      <workItem from="1685004993967" duration="4000" />
+      <workItem from="1685005050066" duration="21000" />
+      <workItem from="1685005424977" duration="78000" />
+      <workItem from="1685005517455" duration="10000" />
+      <workItem from="1685005565897" duration="40000" />
+      <workItem from="1685005611153" duration="126000" />
+      <workItem from="1685005744558" duration="1000" />
+      <workItem from="1685006246543" duration="985000" />
+      <workItem from="1685014749996" duration="18000" />
+      <workItem from="1685069908327" duration="5942000" />
+      <workItem from="1685627589055" duration="1604000" />
+      <workItem from="1685714478096" duration="20000" />
+      <workItem from="1685775042680" duration="679000" />
+      <workItem from="1685849159566" duration="32000" />
+      <workItem from="1686746141045" duration="7000" />
+      <workItem from="1686746900722" duration="2682000" />
+      <workItem from="1691975608631" duration="29032000" />
+      <workItem from="1692062405613" duration="18321000" />
+      <workItem from="1692333082900" duration="4650000" />
+      <workItem from="1692413269981" duration="5432000" />
+      <workItem from="1692579636162" duration="20606000" />
+      <workItem from="1693035423612" duration="8053000" />
+      <workItem from="1693227420436" duration="5372000" />
+      <workItem from="1693273155018" duration="6791000" />
+      <workItem from="1693290410459" duration="5835000" />
+      <workItem from="1693362219745" duration="16987000" />
+      <workItem from="1693455833446" duration="21862000" />
+      <workItem from="1693534743556" duration="16638000" />
+      <workItem from="1693616938944" duration="11590000" />
+      <workItem from="1693628972240" duration="11388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service-oa/src/main/java/com/aug/wechat/controller/WechatController.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.springframework.security.web.firewall.StrictHttpFirewall$1" memberName="request" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
